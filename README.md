@@ -486,6 +486,6 @@ It is built to show the potential of combining:
 
 The project is a practical example of how modern factories can become easier to monitor, easier to understand and easier to improve.
 
-# Warning
+#Observation for the reader
 
 This project is not ready for use can possibly ruin the production or worse. It is only an example of how it could operate.
